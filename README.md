@@ -52,6 +52,4 @@
 </div>
 
 
-###
-<img src="https://raw.githubusercontent.com/seth-mazer/seth-mazer/output/snake.svg" alt="Snake animation" width="100%" />
 
