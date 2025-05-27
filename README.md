@@ -1,4 +1,4 @@
-<h1 align="center">Hello, My Names Seth Mazer</h1>
+<h1 align="center">Hello, Im Seth</h1>
 <h3 align="center">Student @ MiddleSexCC</h3>
 
 - I’m currently learning **Supervised Machine Learning**
