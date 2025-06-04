@@ -8,7 +8,7 @@
 
 - My current Major is **Computer Engineering**
 
-- Most of my public "worth seeing" projects are either on this account, or my old highschool [@SethMazer](@SethMazer)
+- Most of my public "worth seeing" projects are either on this account, or my old highschool [@SethMazer](https://github.com/SethMazer)
 
 - You can reach me at **sethmazer0@gmail.com**
 
