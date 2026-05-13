@@ -1,14 +1,12 @@
 
 
 <h1 align="center">Hello, Im Seth </h1>
-<h3 align="center">Freshman @ MiddleSexCC</h2>
+<h3 align="center">Freshman @ Middlesex College</h2>
 
 
-- I’m currently learning **Supervised Machine Learning**
+- I’m currently learning **Machine Learning**
 
 - My current Major is **Computer Engineering**
-
-- Most of my public "worth seeing" projects are either on this account, or my old highschool [@SethMazer](https://github.com/SethMazer)
 
 - You can reach me at **sethmazer0@gmail.com**
 
